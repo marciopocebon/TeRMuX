@@ -48,3 +48,4 @@ aircrack-ng  -  https://github.com/aircrack-ng/aircrack-ng.git
 
 wirespy  -  https://github.com/aress31/wirespy.git
 
+Wafw00f  -  https://github.com/EnableSecurity/wafw00f.git.git
